@@ -1,5 +1,4 @@
 Hi there! 👋 I'm Manshi Dwivedi
-
 🎓 1st Year CSE (Data Science) Student
 🐍 Learning Python
 📊 Learning Excel & Data Analysis
@@ -7,87 +6,92 @@ Hi there! 👋 I'm Manshi Dwivedi
 
 👨‍💻 About Me
 
-I'm a first-year Computer Science and Engineering (Data Science) student who is interested in programming, data, and technology.
+I'm a first-year Computer Science and Engineering (Data Science) student interested in programming, data, and technology.
 
-I was introduced to Computer Science and Python during Classes 11 and 12 under the CBSE curriculum. While most of my school programming practice was done on paper, I also started practicing coding independently and became interested in learning programming beyond the classroom.
+I was introduced to Computer Science and Python during Classes 11 and 12 under the CBSE curriculum. Although most of my school programming practice was done on paper, I also practiced coding independently and developed an interest in programming beyond the classroom.
 
-Now that I'm in college, I'm focusing on building a stronger foundation in programming and gradually moving toward Data Science.
+Now that I'm in college, I'm focused on building a strong foundation in programming and gradually moving toward Data Science.
 
-Currently, I'm learning Excel through a comprehensive course and practicing what I learn along the way. I'm also continuing to improve my Python skills through coding practice and small projects.
+I'm currently learning Excel through a comprehensive 15-hour course and practicing what I learn along the way. I'm also continuing to improve my Python skills through coding practice and small projects.
 
-I'm still at the beginning of my journey, so this GitHub profile will be a place where I document what I learn, build projects, experiment with ideas, and track my progress over time.
+This GitHub profile is a place where I document my learning journey, build projects, experiment with ideas, and track my progress over time.
 
-🛠️ Skills & Technologies
-Currently Learning
-🐍 Python
-📊 Microsoft Excel
-💻 Git & GitHub
-📈 Data Analysis fundamentals
-Coming Soon
-SQL
-NumPy
-Pandas
-Matplotlib
-Statistics
-Data Visualization
-Machine Learning
+🛠️ Languages & Tools
+Programming Languages
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/> </p>
+Tools & Technologies
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/> </p>
 
-I'm learning these technologies step by step and will add them to my profile as I gain practical experience with them.
+📊 Microsoft Excel — Currently learning
+
+More languages and technologies will be added as I learn and use them in projects.
+
+📊 Languages Used in My Repositories
+
+As I build more projects, this section will reflect the programming languages I actually use in my repositories.
+
+<!--START_SECTION:waka--> <!--END_SECTION:waka-->
+Repository Language Statistics
+
+The language distribution of my repositories will grow naturally as I continue building projects.
+
+🐍 Python — My primary programming language
+📊 Excel — Data analysis and spreadsheet projects
+💻 More technologies coming as I learn them
+
+I don't want to add technologies just for the sake of making my profile look bigger. I'll add them as I actually learn and use them.
 
 📚 My Learning Journey
 🐍 Python
 
 I first learned Python during Classes 11 and 12 as part of Computer Science under the CBSE curriculum.
 
-Since then, I've continued practicing Python independently and I'm working on improving my problem-solving and programming fundamentals.
+I'm now continuing to practice Python independently and working on improving my programming fundamentals and problem-solving skills.
 
 📊 Excel
 
-I'm currently learning Excel through a 15-hour comprehensive Excel course and have completed around 4 hours so far.
+I'm currently learning Excel through a 15-hour comprehensive course and have completed around 4 hours so far.
 
-My goal is to become comfortable with Excel for:
+My goal is to become comfortable with:
 
-Data organization
 Formulas and functions
+Data organization
 Data cleaning
 Charts and visualization
 PivotTables
 Data analysis
-Building useful dashboards
+Dashboards
 📈 Data Science
 
-I'm pursuing CSE with a specialization/focus in Data Science, and I'm gradually building the foundations I will need for the field.
+I'm pursuing CSE with a focus on Data Science and gradually building the foundations required for the field.
 
-My current focus is on getting strong at the basics before moving into advanced topics such as machine learning and artificial intelligence.
+My current priority is understanding the fundamentals before moving toward more advanced topics such as machine learning and artificial intelligence.
 
-🚀 What I'm Working On
-
-At the moment, I'm focusing on:
-
-Improving my Python fundamentals
-Practicing programming regularly
-Learning Excel
-Understanding Git and GitHub
-Building my first projects
-Learning how to work with data
-Exploring Data Science concepts
-Developing better problem-solving skills
+🚀 What I'm Currently Working On
+🐍 Improving my Python fundamentals
+💻 Practicing programming regularly
+📊 Learning Excel
+📈 Understanding data analysis
+🔧 Learning Git and GitHub
+🗂️ Building my first projects
+🌱 Exploring Data Science
+🧠 Improving my problem-solving skills
 🎯 My Goals
 
 My long-term goal is to become a skilled Data Science / Machine Learning professional.
 
-For now, my goals are simple:
+For now, my goals are:
 
 Build a strong programming foundation
 Become comfortable with Python
-Learn SQL and data-related tools
-Understand statistics and data analysis
+Learn SQL
+Learn NumPy and Pandas
+Understand statistics
+Learn data visualization
 Build meaningful projects
-Participate in coding and technical communities
-Keep improving consistently
-
-I believe that learning is a process, and I'm more focused on progress than perfection.
-
+Explore machine learning
+Participate in technical communities
+Keep learning consistently
 📂 What You'll Find on My GitHub
 
 I'll be using this profile to document my learning journey.
@@ -110,7 +114,15 @@ Git & GitHub    ██░░░░░░░░░
 Data Science    ██░░░░░░░░░
 
 
-This will keep changing as I learn more.
+This will change as I learn and gain more practical experience.
+
+📈 My Progress
+
+I believe that small improvements made consistently eventually lead to big results.
+
+My GitHub will grow alongside my skills — from basic Python programs and Excel exercises to more advanced Data Science projects.
+
+Learning → Building → Improving → Repeating 🚀
 
 🤝 Let's Connect
 
@@ -122,11 +134,9 @@ If you're also learning Python, Data Science, programming, or technology, feel f
 
 I'm just getting started.
 
-I don't have years of experience or dozens of impressive projects yet—and that's okay.
+I don't have years of experience or dozens of advanced projects yet — and that's okay.
 
-This profile is meant to show where I started, what I'm learning, and how I improve over time.
-
-Learning → Building → Improving → Repeating 🚀
+This profile is meant to show where I started, what I'm learning, what I'm building, and how I improve over time.
 
 Thanks for visiting my profile! 😊
 
